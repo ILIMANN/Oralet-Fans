@@ -60,6 +60,43 @@ hr {
     width: 24%;
 }
 
+#instagram-logo ,#brand-logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    vertical-align: middle;
+}
+
+#brand-logo{
+    margin-left: 10px;
+}
+
+#site-link{
+    margin-top: -20px;
+}
+
+footer {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.footer-link{
+    color: deepskyblue;
+}
+
+.footer-link:hover{
+    color: cornflowerblue
+}
+
+.footer-link:active{
+    color: blue;
+}
+
+.footer-link:visited{
+    color: blueviolet;
+}
+
 .bottom-line {
     margin-top: 25px;
 }
